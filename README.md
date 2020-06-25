@@ -16,7 +16,7 @@ Case study: https://btannady.wixsite.com/portfolio/cast-study-2
 
 
 <h2 id="garden-app">"Garden App" | Plant Maintenance Web Application</h2>
-A simple and clean web application that provides users, new and old to gardening, an easy platform to help them care for their plants. Created as group class project in UI/UX Interaction Design.
+A simple and clean web application that provides users, new and old to gardening, an easy platform to help them care for their plants. Created as three person project team in UI/UX Interaction Design.
 <br />
 <br /> 
 Without the direct guidance of a local gardening community or extensive online research, it is difficult and time consuming to find the resources and knowledge a novice gardener needs in order to care for their garden in their local environment. 
