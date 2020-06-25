@@ -23,7 +23,7 @@ Without the direct guidance of a local gardening community or extensive online r
 Some of the features in our app included a way to search through catalogs of different plants in our database, where users would be able to quickly discover important ‘need to know’ information regarding each specific plant. Additionally, we also included a personalized plant calendar in the app to help users keep track of watering days. 
 <br />
 <br />
-Made with Html/Css, Node.js, and Adobe XD.
+Made with HTML/CSS, Node.js, and Adobe XD.
 <br />
 <br />
 Check out the case study page here: https://btannady.wixsite.com/portfolio/case-study-1
