@@ -47,7 +47,7 @@ https://github.com/btannady/SinnohRegionPokedex
 
 <h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
 Utilized Poisson distribution to systematically operate a minute-by-minute simulation.
-Visually displays the amount of time spent in dealing with individual customers w/ C++.
+Visually displays the amount of time spent in dealing with individual customers with C++.
 <br />
 <br />
 https://github.com/btannady/CustomerServiceSimulator
