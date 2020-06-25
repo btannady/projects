@@ -49,6 +49,7 @@ https://github.com/btannady/SinnohRegionPokedex
 Utilized Poisson distribution mmodel to systematically operate a minute-by-minute customer traffic-flow simulation.
 <br />
 Entities are visually displayed to represent the individual customers waiting in queue and being assisted by available servers.
+<br />
 Made with C++.
 <br />
 <br />
