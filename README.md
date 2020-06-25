@@ -8,7 +8,7 @@ Created for the Nutrition XR division at UCSD's Virtual/Augmented Reality organi
 Created using Unity3D, Blender, and SteamVR. The concept behind the game is to promote healthy eating through interactive yet educational gameplay. Players are sent on dangerous quests and adventures to go hunting for food monsters in a fictional VR environment. After collecting enough food ingredients to complete a recipe, players will then return to the village kitchen to manually cook all of their collected ingredients to prepare a healthy dish.
 <br />
 <br />
-The project involved the use of Unity3D as the gaming engine to run C# code. Along with this, I primarily focused on creating the 3D graphic models and assets within the Food Quest game. Our team also had a lot of fun showcasing our project development in several UC San Diego hosted exhibitions.
+The project involved the use of Unity3D as the gaming engine to run C# code. Along with this, I primarily focused on creating the 3D graphic models and assets within the Food Quest game. Our team had a lot of fun showcasing our project development in several UC San Diego hosted exhibitions.
 <br />
 <br /> 
 Case study: https://btannady.wixsite.com/portfolio/cast-study-2
