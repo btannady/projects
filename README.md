@@ -30,16 +30,7 @@ Case study: https://btannady.wixsite.com/portfolio/case-study-1
 
 
 <h2 id="pokedex">"Sinnoh Region Pokedex" | Pokemon Database Search Simulator</h2>
-Created independently for a Python class final project. This program contains a built-in database of every single pokemon from the Sinnoh Region. Users are able to quickly and swiftly locate information on different pokemon within the database.
-<br />
-<br />
-There are 3 kinds of search features offered by this Pokedex program:
-<br />
-- Search database by pokemon name.
-<br />
-- Search database by pokemon type.
-<br />
-- Search database by pokemon ndex #.
+Created independently for a python course final project. This program contains a built-in database of every single pokemon from the Sinnoh Region. Users are able to quickly and swiftly locate information on different pokemon within the database.
 <br />
 <br />
 https://github.com/btannady/SinnohRegionPokedex
