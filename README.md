@@ -46,9 +46,9 @@ https://github.com/btannady/SinnohRegionPokedex
 
 
 <h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
-Utilized Poisson distribution mmodel to systematically operate a minute-by-minute customer traffic-flow simulation.
+Utilized Poisson distribution model to systematically operate a minute-by-minute customer traffic-flow simulation.
 <br />
-Entities are visually displayed to represent the individual customers waiting in queue and being assisted by available servers.
+Entities are visually displayed to represent the individual customers waiting in queue and being helped by available servers.
 <br />
 Made with C++.
 <br />
