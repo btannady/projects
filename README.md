@@ -50,4 +50,4 @@ Utilized Poisson distribution to systematically operate a minute-by-minute simul
 Visually displays the amount of time spent in dealing with individual customers w/ C++.
 <br />
 <br />
-https://github.com/btannady/SinnohRegionPokedex
+https://github.com/btannady/CustomerServiceSimulator
