@@ -11,7 +11,7 @@ Created using Unity3D, Blender, and SteamVR. The concept behind the game is to p
 The project involved the use of Unity3D as the gaming engine to run C# code. Along with this, I primarily focused on creating the 3D graphic models and assets within the Food Quest game. Our team had a lot of fun showcasing our project development in several UC San Diego hosted exhibitions.
 <br />
 <br /> 
-Case study: https://btannady.wixsite.com/portfolio/cast-study-2
+Check out the case study page here: https://btannady.wixsite.com/portfolio/cast-study-2
 
 
 
@@ -26,7 +26,7 @@ Some of the features in our app included a way to search through catalogs of dif
 Made with HTML/CSS, Node.js, and Adobe XD.
 <br />
 <br />
-Case study: https://btannady.wixsite.com/portfolio/case-study-1
+Check out the case study page here: https://btannady.wixsite.com/portfolio/case-study-1
 
 
 <h2 id="pokedex">"Sinnoh Region Pokedex" | Pokemon Database Search Simulator</h2>
