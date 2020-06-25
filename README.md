@@ -30,10 +30,10 @@ Case study: https://btannady.wixsite.com/portfolio/case-study-1
 
 
 <h2 id="pokedex">"Sinnoh Region Pokedex" | Pokemon Database Search Simulator</h2>
-Created independently for a python course final project. This program contains a built-in database of every single pokemon from the Sinnoh Region. Users are able to quickly and swiftly locate information on different pokemon within the database.
-<br />
-<br />
 Repository: https://github.com/btannady/SinnohRegionPokedex
+<br />
+<br />
+Created independently for a python course final project. This program contains a built-in database of every single pokemon from the Sinnoh Region. Users are able to quickly and swiftly locate information on different pokemon within the database.
 
 
 <h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
@@ -45,4 +45,3 @@ Utilized Poisson distribution model to systematically operate a minute-by-minute
 Entities are visually displayed to represent the individual customers waiting in queue and being helped by available servers.
 <br />
 Made with C++.
-
