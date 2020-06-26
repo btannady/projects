@@ -31,7 +31,7 @@ Made with C++.
 A simple and clean web application that provides users, new and old to gardening, an easy platform to help them care for their plants. Created as three person project team in UI/UX Interaction Design.
 <br />
 <br /> 
-Without the direct guidance of a local gardening community or extensive online research, it is difficult and time consuming to find the resources and knowledge a novice gardener needs in order to care for their garden in their local environment. 
+Without the direct guidance of a local gardening community or extensive online research, it is difficult and time consuming to find the resources a novice gardener needs in order to care for their personal garden. 
 Some of the features in our app included a way to search through catalogs of different plants in our database, where users would be able to quickly discover important ‘need to know’ information regarding each specific plant. Additionally, we also included a personalized plant calendar in the app to help users keep track of watering days. 
 <br />
 <br />
