@@ -40,7 +40,7 @@ Created independently for a python course final project. This program contains a
 Repository: https://github.com/btannady/CustomerServiceSimulator
 <br />
 <br />
-Utilized Poisson distribution model to systematically operate a minute-by-minute customer traffic-flow simulation.
+An independent programming project that utilizes the Poisson distribution model to systematically operate a minute-by-minute customer traffic-flow simulation.
 <br />
 Entities are visually displayed to represent the individual customers waiting in queue and being helped by available servers.
 <br />
