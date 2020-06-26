@@ -32,7 +32,7 @@ A simple and clean web application that provides users, new and old to gardening
 <br />
 <br /> 
 Without the direct guidance of a local gardening community or extensive online research, it is difficult and time consuming to find the resources a novice gardener needs in order to care for and maintain their gardening environment. 
-Our enables the user to enjoy a personalized gardening experience unique to their specific plant species. Some of the features in our app include a diverse search catalog of different plants within our database where users are able to quickly discover essential ‘need to know’ information regarding each specific plant. Additionally, the web app also contains a real-time plant calendar to help users keep track of their watering days. Planting can be hard, but it doesn't have to be!
+Our web app enables users to enjoy a personalized gardening experience unique to their specific plant species. Some of the features in our app include a diverse search catalog of different plants within our database where users are able to quickly discover essential ‘need to know’ information regarding each specific plant. Additionally, the web app also contains a real-time plant calendar to help users keep track of their watering days. Planting can be hard, but it doesn't have to be!
 <br />
 <br />
 Made with HTML/CSS, Node.js, and Adobe XD.
