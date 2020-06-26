@@ -33,14 +33,14 @@ Check out the case study page here: https://btannady.wixsite.com/portfolio/case-
 Repository: https://github.com/btannady/SinnohRegionPokedex
 <br />
 <br />
-Created independently for a python course final project. This program contains a built-in database of every single pokemon from the Sinnoh Region. Users are able to quickly and swiftly parse through detailed information on different pokemon within the database.
+Created independently for a python course final project. This program contains a built-in database of every single pokemon from the Sinnoh Region. Users are able to quickly and swiftly parse through detailed information on every pokemon within the database.
 
 
 <h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
 Repository: https://github.com/btannady/CustomerServiceSimulator
 <br />
 <br />
-An independent programming project that utilizes the Poisson distribution model to systematically operate a minute-by-minute customer traffic-flow simulation.
+An program that utilizes the Poisson distribution model to systematically operate a minute-by-minute customer traffic-flow simulation.
 <br />
 <br />
 Entities are visually displayed to represent the individual customers waiting in queue and being helped by available servers.
