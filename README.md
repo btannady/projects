@@ -14,6 +14,18 @@ The project involved the use of Unity3D as the gaming engine to run C# code. Alo
 Check out the case study page here: https://btannady.wixsite.com/portfolio/cast-study-2
 
 
+<h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
+Repository: https://github.com/btannady/CustomerServiceSimulator
+<br />
+<br />
+An independent programming project that utilizes the Poisson distribution model to systematically operate a minute-by-minute customer traffic-flow simulation.
+<br />
+<br />
+Entities are visually displayed to represent the individual customers waiting in queue and being helped by available servers.
+<br />
+<br />
+Made with C++.
+
 
 <h2 id="garden-app">"Garden App" | Plant Maintenance Web Application</h2>
 A simple and clean web application that provides users, new and old to gardening, an easy platform to help them care for their plants. Created as three person project team in UI/UX Interaction Design.
@@ -34,16 +46,3 @@ Repository: https://github.com/btannady/SinnohRegionPokedex
 <br />
 <br />
 Created independently as a python solo project. This program contains a built-in database of every single pokemon from the Sinnoh Region. Users are able to quickly and swiftly parse through detailed information on every pokemon within the database.
-
-
-<h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
-Repository: https://github.com/btannady/CustomerServiceSimulator
-<br />
-<br />
-An independent programming project that utilizes the Poisson distribution model to systematically operate a minute-by-minute customer traffic-flow simulation.
-<br />
-<br />
-Entities are visually displayed to represent the individual customers waiting in queue and being helped by available servers.
-<br />
-<br />
-Made with C++.
