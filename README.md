@@ -37,6 +37,9 @@ Created independently as a python solo project. This program contains a built-in
 
 
 <h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
+Repository: https://github.com/btannady/CustomerServiceSimulator
+<br />
+<br />
 An independent programming project that utilizes the Poisson distribution model to systematically operate a minute-by-minute customer traffic-flow simulation.
 <br />
 <br />
@@ -44,6 +47,3 @@ Entities are visually displayed to represent the individual customers waiting in
 <br />
 <br />
 Made with C++.
-<br />
-<br />
-Repository: https://github.com/btannady/CustomerServiceSimulator
