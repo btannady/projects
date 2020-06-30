@@ -52,6 +52,4 @@ Created independently as a python solo project. This program contains a built-in
 
 
 <h2 id="discordBot">"Discord Bot" | Python Multi-tool Music Bot</h2>
-<br />
-<br />
 Created using FFmpeg, Homebrew, Python.
