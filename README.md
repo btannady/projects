@@ -49,3 +49,9 @@ Repository: https://github.com/btannady/SinnohRegionPokedex
 <br />
 <br />
 Created independently as a python solo project. This program contains a built-in database of every single pokemon from the Sinnoh Region. Users are able to quickly and swiftly parse through detailed information on every pokemon within the database.
+
+
+<h2 id="discordBot">"Discord Bot" | Python Multi-tool Music Bot</h2>
+<br />
+<br />
+Created using FFmpeg, Homebrew, Python.
