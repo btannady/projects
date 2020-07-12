@@ -3,7 +3,7 @@ A list of some of my significant projects.
 
 
 <h2 id="food-quest">"Food Quest" | Virtual Reality RPG</h2>
-Created for the Nutrition XR division at UCSD's Virtual/Augmented Reality organization. Seven person project team. 
+Created for the Nutrition XR division at UCSD's Virtual/Augmented Reality organization. Seven person project development team. 
 <br />
 Created using Unity3D, Blender, and SteamVR. The concept behind the game is to promote healthy eating through interactive yet educational gameplay. Players are sent on dangerous quests and adventures to go hunting for food monsters in a fictional VR environment. After collecting enough food ingredients to complete a recipe, players will then return to the village kitchen to manually cook all of their collected ingredients to prepare a healthy dish.
 <br />
