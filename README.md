@@ -46,18 +46,19 @@ Check out the case study page here: https://btannady.wixsite.com/portfolio/case-
 
 <h2 id="statsTracker">"Strategy Stats" | Real-time Statistics Tracking Program</h2>
 Created using Riot Games' developer API to assist in tracking live gameplay statistics. Users are given the ability to quickly search in real-time for performance history statistics pertaining to their teammates and opponents. Enormous stockpiles of data is transferred using JSON files and algorithmically displayed to effectively assist players in identifying statistically proven strengths and weaknesses of their teammates and opponents. This program is meant to act as a competitive gameplay tool for League of Legends players.
+<br />
+<br />
+Made with Python and Riot Games API.
+<br />
+<br />
+Check out Riot Games' API page here: https://developer.riotgames.com/
+
 
 <h2 id="pokedex">"Sinnoh Region Pokedex" | Pokemon Database Search Simulator</h2>
 Repository: https://github.com/btannady/SinnohRegionPokedex
 <br />
 <br />
 Created independently as a python solo project. This program contains a built-in database of every single pokemon from the Sinnoh Region. Users are able to quickly and swiftly parse through detailed information on every pokemon within the database.
-<br />
-<br />
-Made with Python and Riot Games Official API.
-<br />
-<br />
-Check out Riot Games' API page here: https://developer.riotgames.com/
 
 
 <h2 id="discordBot">"Discord Bot" | Python Multi-tool Music Bot</h2>
