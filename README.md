@@ -44,6 +44,9 @@ Made with HTML/CSS, Node.js, and Adobe XD.
 Check out the case study page here: https://btannady.wixsite.com/portfolio/case-study-1
 
 
+<h2 id="statsTracker">"LoL Real-Time Live Game Stats" | Competitive Gameplay Tool</h2>
+
+
 <h2 id="pokedex">"Sinnoh Region Pokedex" | Pokemon Database Search Simulator</h2>
 Repository: https://github.com/btannady/SinnohRegionPokedex
 <br />
