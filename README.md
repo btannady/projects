@@ -33,7 +33,6 @@ A simple and clean web application that provides users, new and old to gardening
 <br /> 
 Our web application enables users a personalized gardening experience unique to each of their specific garden plant species. Various features within the application allow for diverse searching through built-in catalogs of different plants species within our database where users are able to quickly discover essential ‘need to know’ information regarding each unique plant. The web app similarly contains a real-time plant calendar to help notify users to keep track of their watering days. 
 <br />
-<br />
 Maintaining plants can be hard, but it doesn't have to be!
 <br />
 <br />
