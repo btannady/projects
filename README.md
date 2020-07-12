@@ -52,6 +52,12 @@ Repository: https://github.com/btannady/SinnohRegionPokedex
 <br />
 <br />
 Created independently as a python solo project. This program contains a built-in database of every single pokemon from the Sinnoh Region. Users are able to quickly and swiftly parse through detailed information on every pokemon within the database.
+<br />
+<br />
+Made with Python and Riot Games Official API.
+<br />
+<br />
+Check out Riot Games' API page here: https://developer.riotgames.com/
 
 
 <h2 id="discordBot">"Discord Bot" | Python Multi-tool Music Bot</h2>
