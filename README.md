@@ -45,11 +45,11 @@ Check out the case study page here: https://btannady.wixsite.com/portfolio/case-
 
 
 <h2 id="statsTracker">"Strategy Stats" | Real-time Statistics Tracking Program</h2>
-Created using Riot Games' developer API to effectively track live gameplay statistics. Users are given the ability to quickly search in real-time for performance history statistics pertaining to their teammates and opponents. 
-<br />
-<br />
 Enormous stockpiles of data is transferred using JSON files and algorithmically arranged to effectively assist players in identifying statistically-proven strengths and weaknesses of their teammates and opponents. 
 This program is meant to act as a competitive gameplay tool for League of Legends players.
+<br />
+<br />
+Created using Riot Games' developer API to effectively track live gameplay statistics. Users are given the ability to quickly search in real-time for performance history statistics pertaining to their teammates and opponents. 
 <br />
 <br />
 Made with Python and Riot Games Developer API.
