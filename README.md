@@ -44,8 +44,8 @@ Made with HTML/CSS, Node.js, and Adobe XD.
 Check out the case study page here: https://btannady.wixsite.com/portfolio/case-study-1
 
 
-<h2 id="statsTracker">"Real-time Statistics for LoL" | Live Competition Tracking Program</h2>
-Created using Riot Games' developer API to track real-time gameplay statistics. Users are given the ability to quickly search in real-time for performance history statistics pertaining to their teammates and opponents. Enormous stockpiles of data is transferred using JSON files and algorithmically displayed to effectively assist players. This program is meant to act as a competitive gameplay tool for League of Legends players.
+<h2 id="statsTracker">"Strategy Stats" | Real-time Statistics Tracking Program</h2>
+Created using Riot Games' developer API to assist in tracking live gameplay statistics. Users are given the ability to quickly search in real-time for performance history statistics pertaining to their teammates and opponents. Enormous stockpiles of data is transferred using JSON files and algorithmically displayed to effectively assist players in identifying statistically proven strengths and weaknesses of their teammates and opponents. This program is meant to act as a competitive gameplay tool for League of Legends players.
 
 <h2 id="pokedex">"Sinnoh Region Pokedex" | Pokemon Database Search Simulator</h2>
 Repository: https://github.com/btannady/SinnohRegionPokedex
