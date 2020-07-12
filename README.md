@@ -56,15 +56,15 @@ Made with Python and Riot Games Developer API.
 Check out Riot Games' API page here: https://developer.riotgames.com/
 
 
-<h2 id="pokedex">"Sinnoh Region Pokedex" | Pokemon Database Search Simulator</h2>
-Repository: https://github.com/btannady/SinnohRegionPokedex
-<br />
-<br />
-Created independently as a python solo project. This program contains a built-in database of every single pokemon from the Sinnoh Region. Users are able to quickly and swiftly parse through detailed information on every pokemon within the database.
-
-
 <h2 id="discordBot">"Discord Bot" | Python Multi-tool Music Bot</h2>
 Capable of programmatically communicating within voice/chat group calls in Discord. The bot imitates a humanistic persona while assisting users with search/queuing music entertainment, providing support as a chat tool, and saving data for later usage.
 <br />
 <br />
 Created using FFmpeg, Homebrew, Python. 
+
+
+<h2 id="pokedex">"Sinnoh Region Pokedex" | Pokemon Database Search Simulator</h2>
+Repository: https://github.com/btannady/SinnohRegionPokedex
+<br />
+<br />
+Created independently as a python solo project. This program contains a built-in database of every single pokemon from the Sinnoh Region. Users are able to quickly and swiftly parse through detailed information on every pokemon within the database.
