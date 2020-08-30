@@ -42,7 +42,7 @@ Made with HTML/CSS, Node.js, and Adobe XD.
 Check out the case study page here: https://btannady.wixsite.com/portfolio/case-study-1
 
 
-<h2 id="statsTracker">"Strategy Stats for LoL" | Real-time Statistics Tracking Program</h2>
+<h2 id="statsTracker">"Scouter Buddy" | Real-time Statistics Tracking Program</h2>
 Created using Riot Games Developer API to effectively track live gameplay statistics. Enormous stockpiles of data is transferred using JSON files and algorithmically arranged to effectively assist players in identifying statistically-proven strengths and weaknesses of their teammates and opponents. 
 <br />
 <br />
