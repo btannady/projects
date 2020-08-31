@@ -22,6 +22,7 @@ Worked on the Biometrics IoT Integration team to build API software that allows 
 <br />
 <br />
 Researched and devised a proof of concept for integrating GATT server/client interactions into internal software.
+<br />
 Built the python surveillance pipeline that senses and handles biometric pulse readings to alert the PET voice assistant AI of possible heart attack incidents before they escalate any further.
 <br />
 <br />
