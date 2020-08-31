@@ -70,7 +70,7 @@ Check out Riot Games' API page here: https://developer.riotgames.com/
 
 
 <h2 id="discordBot">"Mayushii" | Discord Multi-tool Music Bot</h2>
-Capable of programmatically communicating within voice/chat group calls in Discord. The bot imitates a humanistic persona while assisting users with search/queuing music entertainment, providing support as a chat tool, and saving data for later usage.
+Capable of programmatically communicating within voice/chat group calls in Discord. The bot imitates a humanistic persona while assisting users with managing and automonously playing music, chat log support tool, and saving data for later usage.
 <br />
 <br />
 Created using FFmpeg, Homebrew, Python. 
