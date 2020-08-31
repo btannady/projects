@@ -14,6 +14,20 @@ The project involved the use of Unity3D as the gaming engine to run C# code. I p
 Check out the case study page here: https://btannady.wixsite.com/portfolio/cast-study-2
 
 
+<h2 id="biometrics">"" | Biometric Wearables Pipeline</h2>
+Repository: https://github.com/btannady/CustomerServiceSimulator
+<br />
+<br />
+Worked on the Biometrics IoT Integration team to build API software that allows devices to probe for elderly heart rate information wirelessly over Bluetooth LE.
+<br />
+<br />
+Researched and devised a proof of concept for integrating GATT server/client interactions into internal software.
+Built the python surveillance pipeline that senses and handles biometric pulse readings to alert the PET voice assistant AI of possible heart attack incidents before they escalate any further.
+<br />
+<br />
+Made with Python, BlueZ (Bluepy), Jira, Excel.
+
+
 <h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
 Repository: https://github.com/btannady/CustomerServiceSimulator
 <br />
