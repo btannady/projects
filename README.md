@@ -18,7 +18,7 @@ Check out the case study page here: https://btannady.wixsite.com/portfolio/cast-
 Software Engineer Intern | Kin-Keepers | Summer Internship 2020
 <br />
 <br />
-Worked on the Biometrics IoT Integration team to build API software that allows devices to probe for elderly heart rate information wirelessly over Bluetooth LE.
+Worked on the Biometrics IoT Integration team to build API software that allows devices to probe for elderly heart rate and accelerometer movement detection information wirelessly over Bluetooth LE.
 <br />
 <br />
 Researched and devised a proof of concept for integrating GATT server/client interactions into internal software.
