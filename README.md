@@ -15,7 +15,7 @@ Check out the case study page here: https://btannady.wixsite.com/portfolio/cast-
 
 
 <h2 id="biometrics">"Biometric Wearables Pipeline" | Heart Rate & Movement Detection Surveillance</h2>
-Software Engineer Intern | Kin-Keepers | Summer Internship 2020
+Kin-Keepers | Software Engineer Intern | Summer 2020
 <br />
 <br />
 Worked on the Biometrics IoT Integration team to build API software that allows devices to probe for elderly heart rate and accelerometer movement detection information wirelessly over Bluetooth LE.
