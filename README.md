@@ -26,7 +26,9 @@ Designed the surveillance pipeline that senses and handles biometric pulse readi
 <br />
 <br />
 Made with Python, BlueZ (Bluepy), Jira, Excel.
-
+<br />
+<br />
+Learn more about Bluetooth LE protocols here: https://www.bluetooth.com/specifications/gatt/
 
 <h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
 Repository: https://github.com/btannady/CustomerServiceSimulator
