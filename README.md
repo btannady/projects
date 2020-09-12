@@ -22,7 +22,7 @@ Built API software for the Biometrics IoT Integration team, allowing devices to 
 <br />
 <br />
 Researched and devised a proof of concept for integrating GATT server/client interactions into internal software.
-Designed the surveillance pipeline that senses and handles biometric pulse readings to alert the PET voice assistant AI of potential heart attack incidents before they escalate any further.
+Designed the surveillance pipeline that senses and handles biometric pulse readings to alert the 'PET' voice assistant AI of potential heart attack incidents before they escalate any further.
 <br />
 <br />
 Made with Python, BlueZ (Bluepy), Jira, Excel.
