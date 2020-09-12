@@ -2,18 +2,6 @@
 A list of some of my significant projects.
 
 
-<h2 id="food-quest">"Food Quest" | Virtual Reality RPG</h2>
-Created for the Nutrition XR division at UCSD's Virtual/Augmented Reality organization. Seven person project development team. 
-<br />
-Created using Unity3D, Blender, and SteamVR. The concept behind the game is to promote healthy eating through interactive yet educational gameplay. Players are sent on dangerous quests and adventures to go hunting for food monsters in a fictional VR environment. After collecting enough food ingredients to complete a recipe, players will then return to the village kitchen to manually cook all of their collected ingredients to prepare a healthy dish.
-<br />
-<br />
-The project involved the use of Unity3D as the gaming engine to run C# code. I primarily focused on creating the 3D graphic models and assets used within the "Food Quest" game. Our team had a lot of fun showcasing our project development in several UC San Diego hosted exhibitions.
-<br />
-<br /> 
-Check out the case study page here: https://btannady.wixsite.com/portfolio/cast-study-2
-
-
 <h2 id="biometrics">"Biometric Wearables Pipeline" | Heart Rate & Movement Detection Surveillance</h2>
 Software Engineer Intern | Kin-Keepers | Summer Internship 2020
 <br />
@@ -28,7 +16,19 @@ Built the python surveillance pipeline that senses and handles biometric pulse r
 Made with Python, BlueZ (Bluepy), Jira, Excel.
 
 
-<h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
+<h2 id="food-quest">"Food Quest" | Virtual Reality RPG</h2>
+Created for the Nutrition XR division at UCSD's Virtual/Augmented Reality organization. Seven person project development team. 
+<br />
+Created using Unity3D, Blender, and SteamVR. The concept behind the game is to promote healthy eating through interactive yet educational gameplay. Players are sent on dangerous quests and adventures to go hunting for food monsters in a fictional VR environment. After collecting enough food ingredients to complete a recipe, players will then return to the village kitchen to manually cook all of their collected ingredients to prepare a healthy dish.
+<br />
+<br />
+The project involved the use of Unity3D as the gaming engine to run C# code. I primarily focused on creating the 3D graphic models and assets used within the "Food Quest" game. Our team had a lot of fun showcasing our project development in several UC San Diego hosted exhibitions.
+<br />
+<br /> 
+Check out the case study page here: https://btannady.wixsite.com/portfolio/cast-study-2
+
+
+h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
 Repository: https://github.com/btannady/CustomerServiceSimulator
 <br />
 <br />
