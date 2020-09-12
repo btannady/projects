@@ -28,7 +28,7 @@ Built the python surveillance pipeline that senses and handles biometric pulse r
 Made with Python, BlueZ (Bluepy), Jira, Excel.
 
 
-h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
+<h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
 Repository: https://github.com/btannady/CustomerServiceSimulator
 <br />
 <br />
