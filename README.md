@@ -12,6 +12,9 @@ The project involved the use of Unity3D as the gaming engine to run C# code. I p
 <br />
 <br /> 
 Check out the case study page here: https://btannady.wixsite.com/portfolio/cast-study-2
+<br />
+<br /> 
+Check out this video of our lead playing the early prototype of the game: https://youtu.be/z-KPfnebmsY
 
 
 <h2 id="biometrics">"Biometric Wearables Pipeline" | Heart Rate & Movement Detection Surveillance</h2>
