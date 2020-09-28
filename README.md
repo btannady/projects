@@ -18,12 +18,12 @@ Check out the case study page here: https://btannady.wixsite.com/portfolio/cast-
 Kin-Keepers | Software Engineer Intern | Summer 2020
 <br />
 <br />
-Built API software for the Biometrics IoT Integration team, allowing devices to probe in real-time for elderly heart rate and accelerometer movement detection information wirelessly over Bluetooth LE.
+Built the surveillance software for the Biometrics IoT Integration team, allowing devices to probe in real-time for elderly heart rate and accelerometer movement detection information wirelessly over Bluetooth LE.
 <br />
 <br />
 Researched and devised a proof of concept for integrating GATT server/client interactions into internal software.
 <br />
-Designed the surveillance pipeline that senses and handles biometric pulse readings to alert the 'PET' voice assistant AI of potential heart attack incidents before they escalate any further.
+Designed an API Pipeline that senses and handles biometric pulse readings to alert the 'PET' voice assistant AI of potential heart attack incidents before they escalate any further.
 <br />
 <br />
 Made with Python, BlueZ (Bluepy), Jira, Excel.
