@@ -11,10 +11,10 @@ Created using Unity3D, Blender, and SteamVR. The concept behind the game is to p
 The project involved the use of Unity3D as the gaming engine to run C# code. I primarily focused on creating the 3D graphic models and assets used within the "Food Quest" game. Our team had a lot of fun showcasing our project development in several UC San Diego hosted exhibitions.
 <br />
 <br /> 
-Check out my case study here: https://btannady.wixsite.com/portfolio/cast-study-2
+Check out my case study page here: https://btannady.wixsite.com/portfolio/cast-study-2
 <br />
 <br /> 
-Check out the video demo of our lead playing the early prototype of the game: https://youtu.be/z-KPfnebmsY
+Check out this video demo of our lead playing the early prototype of the game: https://youtu.be/z-KPfnebmsY
 
 
 <h2 id="biometrics">"Biometric Wearables Pipeline" | Heart Rate & Movement Detection Surveillance</h2>
