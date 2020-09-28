@@ -32,7 +32,6 @@ The project involved the use of Unity3D as the gaming engine to run C# code. I p
 <br /> 
 Check out my case study page here: https://btannady.wixsite.com/portfolio/cast-study-2
 <br />
-<br /> 
 Check out this video demo of early prototype for the game: https://youtu.be/z-KPfnebmsY
 
 
