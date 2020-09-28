@@ -17,6 +17,7 @@ Made with Python, BlueZ (Bluepy), Jira, Excel.
 <br />
 <br />
 More about Bluetooth LE protocols here: https://www.bluetooth.com/specifications/gatt/
+<br />
 More about Kin-Keepers here: https://www.kin-keepers.com/home/about/
 
 
