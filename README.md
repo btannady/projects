@@ -35,19 +35,6 @@ Check out my case study page here: https://btannady.wixsite.com/portfolio/cast-s
 Check out this video demo of early prototype for the game: https://youtu.be/z-KPfnebmsY
 
 
-<h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
-Repository: https://github.com/btannady/CustomerServiceSimulator
-<br />
-<br />
-An independent programming project that utilizes the Poisson distribution model to systematically operate a minute-by-minute customer traffic-flow simulation.
-<br />
-<br />
-Entities are visually displayed to represent the individual customers waiting in queue and being helped by available servers.
-<br />
-<br />
-Made with C++.
-
-
 <h2 id="garden-app">"Garden App" | Plant Maintenance Web Application</h2>
 A simple and clean web application that provides users, new and old to gardening, an easy platform to help them care for their garden plants. Created as a three person project team in UI/UX Interaction Design.
 <br />
@@ -81,6 +68,19 @@ Capable of programmatically communicating within voice/chat group calls in Disco
 <br />
 <br />
 Created using FFmpeg, Homebrew, Python. 
+
+
+<h2 id="server up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
+Repository: https://github.com/btannady/CustomerServiceSimulator
+<br />
+<br />
+An independent programming project that utilizes the Poisson distribution model to systematically operate a minute-by-minute customer traffic-flow simulation.
+<br />
+<br />
+Entities are visually displayed to represent the individual customers waiting in queue and being helped by available servers.
+<br />
+<br />
+Made with C++.
 
 
 <h2 id="pokedex">"Sinnoh Region Pokedex" | Pokemon Database Search Simulator</h2>
