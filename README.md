@@ -13,7 +13,7 @@ Researched and devised a proof of concept for integrating GATT server/client int
 Designed API pipeline that senses and handles biometric pulse readings to alert the 'PET' voice assistant AI of potential heart attack incidents before they escalate any further.
 <br />
 <br />
-Made with Python, BlueZ (Bluepy), Jira, Excel.
+Made with Python, BlueZ (Bluepy), Jira.
 <br />
 <br />
 More about Bluetooth LE protocols here: https://www.bluetooth.com/specifications/gatt/
