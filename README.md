@@ -8,7 +8,6 @@ Kin-Keepers | Software Engineer Intern | Summer 2020
 <br />
 Built the surveillance software for the Biometrics IoT Integration team, allowing devices to probe in real-time for elderly heart rate and accelerometer movement detection data wirelessly over Bluetooth LE signals.
 <br />
-<br />
 Researched and devised a proof of concept for integrating GATT server/client interactions into company's internal software.
 <br />
 Designed API pipeline that senses and handles biometric pulse readings to alert the 'PET' voice assistant AI of potential heart attack incidents before they escalate any further.
