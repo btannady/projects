@@ -21,7 +21,7 @@ Check out this video demo of early prototype for the game: https://youtu.be/z-KP
 Kin-Keepers | Software Engineer Intern | Summer 2020
 <br />
 <br />
-Built the surveillance software for the Biometrics IoT Integration team, allowing devices to probe in real-time for elderly heart rate and accelerometer movement detection information wirelessly over Bluetooth LE.
+Built the surveillance software for the Biometrics IoT Integration team, allowing devices to probe in real-time for elderly heart rate and accelerometer movement detection data wirelessly over Bluetooth LE.
 <br />
 <br />
 Researched and devised a proof of concept for integrating GATT server/client interactions into internal software.
