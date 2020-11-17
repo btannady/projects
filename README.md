@@ -2,7 +2,7 @@
 A list of some of my significant projects.
 
 
-<h2 id="biometrics">"Biometric Wearables Pipeline" | Elderly HRM & Movement Detection Surveillance</h2>
+<h2 id="biometrics">"Biometric Wearables Pipeline" | Elderly Heart Rate & Movement Surveillance</h2>
 Kin-Keepers | Software Engineer Intern | Summer 2020
 <br />
 <br />
