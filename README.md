@@ -6,7 +6,7 @@ A list of some of my significant projects.
 Kin-Keepers | Software Engineer Intern | Summer 2020
 <br />
 <br />
-Without giving away too much information, this was a project during my Summer 2020 internship that spanned several months in length. Although my work involved establishing a great deal of programming, a lot of my time was also spent pioneering/modernizing industry-level infrastructures into our software. During my time at Kin-Keepers, I orchestrated the surveillance software for the Biometrics IoT Integration team, allowing devices to probe in real-time for elderly heart rate and accelerometer movement detection data wirelessly over Bluetooth LE signals.
+Without giving away too much information, this was the project I undertook during my Summer 2020 internship that spanned several months in length. Although my work involved establishing a great deal of programming, a lot of my time was also spent pioneering/modernizing industry-level infrastructures into our software. During my time at Kin-Keepers, I orchestrated the surveillance software for the Biometrics IoT Integration team, allowing devices to probe in real-time for elderly heart rate and accelerometer movement detection data wirelessly over Bluetooth LE signals.
 <br />
 Likewise, researching and devising a proof of concept for integrating GATT server/client interactions into company's internal software.
 <br />
