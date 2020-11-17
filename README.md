@@ -12,7 +12,7 @@ Considering the principles behind BLE protocol integration were still unfamiliar
 <br />
 Likewise, all project goals were favorably surpassed and accomplished by the end of the Summer internship. 
 <br />
-All project development during this Summer internship was conducted under Agile SCRUM workflow.
+All project development was fostered under the Agile SCRUM workflow.
 <br />
 <br />
 Made with Python, BlueZ (Bluepy), Jira.
