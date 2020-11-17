@@ -8,8 +8,8 @@ Kin-Keepers | Software Engineer Intern | Summer 2020
 <br />
 Without giving away too much information, this was the project I undertook during my Summer 2020 internship that spanned several months in length. Although my work involved establishing a great deal of programming, a lot of my time was also spent pioneering and modernizing industry-level infrastructures into our company software. During my time at Kin-Keepers, I created surveillance software for the Biometrics IoT Integration team. The project's goal is to successfully grant our company software a secure, stable, and wireless pipeline, capable of probing wearable devices (in real-time) for elderly heart rate and accelerometer movement detection data over Bluetooth LE signals.
 <br />
-Considering the principles behind BLE intregration were still unfamiliar to our team, I spearheaded and orchestrated the devising of the proof of concept for integrating GATT server/client interactions into company's internal software.
-Designed API pipeline that senses and handles biometric pulse readings to alert the 'PET' voice assistant AI of potential heart attack incidents before they escalate any further.
+Considering the principles behind BLE intregration were still unfamiliar to our team, I spearheaded and orchestrated the devising of the proof of concept for integrating GATT server/client interactions into our company's internal software.
+Likewise, all goals were favorably met by the end of the Summer internship. The project cultivated an established API pipeline that senses and handles biometric pulse readings to alert the 'PET' voice assistant AI of potential heart attack incidents before they escalate any further.
 <br />
 <br />
 Made with Python, BlueZ (Bluepy), Jira.
