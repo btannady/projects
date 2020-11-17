@@ -11,6 +11,8 @@ Without giving away too much information, this was the project I undertook durin
 Considering the principles behind BLE protocol integration were still unfamiliar to our team, I was tasked with spearheading and orchestrating the proof of concept for integrating GATT server/client interactions into our company's internal software.
 Likewise, all project goals were favorably surpassed and accomplished by the end of the Summer internship. And with that, we had cultivated an established API pipeline involved with automated sensory activation, handling of biometric readings, and streamlined alerts to the Kin-Keepers 'PET' voice assistant AI regarding potential elderly incidents before they escalate any further.
 <br />
+All project development during this Summer internship was conducted under Agile SCRUM workflow.
+<br />
 <br />
 Made with Python, BlueZ (Bluepy), Jira.
 <br />
