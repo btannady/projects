@@ -5,30 +5,11 @@ A list of some of my significant projects.
 Kin-Keepers | Software Engineer Intern | Summer 2020
 <br />
 <br />
-During Summer 2020, I worked as a Software Engineer Intern for a company called Kin-Keepers. This company specializes in creating different services and technological tools aimed in supporting the elderly community. Within those several months, I created surveillance software for the Biometrics IoT Integration team. The project's goal was to successfully grant our company AI a secure, stable, and wireless pipeline, capable of probing wearable devices (in real-time) for elderly heart rate and accelerometer movement detection data over Bluetooth LE signals.
+This was the project I undertook during my Summer 2020 internship that spanned several months in length. During Summer 2020, I worked as a Software Engineer Intern for a company called Kin-Keepers. This company specializes in creating different services and technological tools aimed in supporting the elderly community. Within those several months, I created surveillance software for the Biometrics IoT Integration team. The project's goal was to successfully grant our company AI a secure, stable, and wireless pipeline, capable of probing wearable devices (in real-time) for elderly heart rate and accelerometer movement detection data over Bluetooth LE signals.
 <br />
-Considering the principles behind BLE protocol integration were still unfamiliar to our team, I was tasked with spearheading and orchestrating the proof of concept for integrating GATT server/client interactions into our company's internal software. As a result, my work involved both a great deal of programming, and a lot of my time was also spent self-learning to pioneer industry-level infrastructures into our company software. By the end of the summer, all project goals were favorably surpassed and accomplished. Project development was fostered under the Agile SCRUM workflow, where we’d have daily standup meetings, sprint reviews, refinement sessions, and so on.
-<br />
-<br />
-Made with Python, BlueZ (Bluepy), Jira.
-<br />
-<br />
-More about Bluetooth LE protocols here: https://www.bluetooth.com/specifications/gatt/
-<br />
-More about Kin-Keepers here: https://www.kin-keepers.com/home/about/
-
-
-<h2 id="biometrics">"Biometric Wearables Pipeline" | Elderly Heart Rate & Movement Surveillance</h2>
-Kin-Keepers | Software Engineer Intern | Summer 2020
-<br />
-<br />
-This was the project I undertook during my Summer 2020 internship that spanned several months in length. Although my work involved establishing a great deal of programming, a lot of my time was also spent pioneering industry-level infrastructures into our company software. During my time at Kin-Keepers, I created surveillance software for the Biometrics IoT Integration team. The project's goal was to successfully grant our company AI a secure, stable, and wireless pipeline, capable of probing wearable devices (in real-time) for elderly heart rate and accelerometer movement detection data over Bluetooth LE signals.
-<br />
-Considering the principles behind BLE protocol integration were still unfamiliar to our team, I was tasked with spearheading and orchestrating the proof of concept for integrating GATT server/client interactions into our company's internal software. Through this, the project development cultivated an established API pipeline involved in working alongside automated sensory activation, handling of biometric readings, and streamlined data to the Kin-Keepers 'PET' voice assistant AI to alert of potential elderly incidents before they escalate any further.
-<br />
-Likewise, all project goals were favorably surpassed and accomplished by the end of the Summer internship. 
-<br />
-Project development was fostered under the Agile SCRUM workflow.
+Considering the principles behind BLE protocol integration were still unfamiliar to our team, I was tasked with spearheading and orchestrating the proof of concept for integrating GATT server/client interactions into our company's internal software. As a result, my work involved both a great deal of programming, and a lot of my time was also spent self-learning to pioneer industry-level infrastructures into our company software. By the end of the summer, all project goals were favorably surpassed and accomplished. 
+Through this, the project development cultivated an established API pipeline involved in working alongside automated sensory activation, handling of biometric readings, and streamlined data to the Kin-Keepers 'PET' voice assistant AI to alert of potential elderly incidents before they escalate any further.
+Project development was fostered under the Agile SCRUM workflow, where we’d have daily standup meetings, sprint reviews, refinement sessions, and so on.
 <br />
 <br />
 Made with Python, BlueZ (Bluepy), Jira.
