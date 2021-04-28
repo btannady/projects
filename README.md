@@ -69,7 +69,7 @@ Capable of programmatically communicating within voice/chat group calls in Disco
 Created using FFmpeg, Homebrew, Python. 
 
 
-<h2 id="Next Up!">"Server Up!" | Customer Traffic-Flow Simulator</h2>
+<h2 id="Next Up!">"Next Up!" | Customer Traffic-Flow Simulator</h2>
 Repository: https://github.com/btannady/CustomerServiceSimulator
 <br />
 <br />
