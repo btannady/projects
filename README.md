@@ -34,7 +34,7 @@ Check out my case study page here: https://btannady.wixsite.com/portfolio/cast-s
 Check out this video demo of early prototype for the game: https://youtu.be/z-KPfnebmsY
 
 
-<h2 id="garden-app">"Garden App" | Plant Maintenance Web Application</h2>
+<h2 id="garden-app">"Garden Buddy" | Plant Maintenance Web Application</h2>
 A simple and clean web application that provides users, new and old to gardening, an easy platform to help them care for their garden plants. Created as a three person project team in UI/UX Interaction Design.
 <br />
 <br /> 
