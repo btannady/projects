@@ -36,7 +36,9 @@ Check out Riot Games' API page here: https://developer.riotgames.com/
 <h2 id="data-science">"Per Capita Income of Food Business vs Health Inspection Performance" | Data Modeling</h2>
 This was a data science project I developed with Python.
 <br />
+<br />
 Research Question: Does the amount of fat in a restaurant's menu correlate with its Health Inspection score?
+<br />
 <br />
 Hypothesis: I believe that the amount of fat that a restaurant includes in their menu correlates to the restaurant getting a lower grade in the health inspection process. My reasoning for this is because meat products and other fatty foods likely require a higher diligence in maintaining the hygiene, which would relate with the restaurant's performance in health inspections.
 <br />
