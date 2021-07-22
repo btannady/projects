@@ -37,10 +37,17 @@ Check out Riot Games' API page here: https://developer.riotgames.com/
 This was a data science project I developed with Python.
 <br />
 <br />
-Research Question: Does the amount of fat in a restaurant's menu correlate with its Health Inspection score?
+Research Question: 
+<br />
+Does the per capita income of a North Carolina food business correlate with the business’s health inspection score performance?
 <br />
 <br />
-Hypothesis: I believe that the amount of fat that a restaurant includes in their menu correlates to the restaurant getting a lower grade in the health inspection process. My reasoning for this is because meat products and other fatty foods likely require a higher diligence in maintaining the hygiene, which would relate with the restaurant's performance in health inspections.
+Hypothesis: 
+<br />
+I believe that the amount of Per Capita Income that a region has, correlates with the food business in that area receiving a higher grade in their health inspection score. My reasoning for this is that poorer neighborhoods are probably less sanitary that wealthier neighborhoods because they don't have as much of a money budget to spend on routine hygenic operations. This would therefore result in the businesses located in poorer neighborhoods to more frequently get a lower health inspection score than wealthier neighborhoods.
+<br />
+<br />
+Made with Python, DOHMH MenuStat, DataSF.
 <br />
 <br />
 Check out the repository page here: https://github.com/btannady/individual_sp20/blob/master/final_project/FinalProject_btannady.ipynb
