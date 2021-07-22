@@ -40,6 +40,7 @@ My reasoning for asking this question was that I figured poorer neighborhoods wo
 <br />
 Made with Python.
 <br />
+<br />
 Check out the repository page here: https://github.com/btannady/individual_sp20/tree/master/final_project
 
 
