@@ -47,7 +47,7 @@ Hypothesis:
 I believe that the amount of Per Capita Income that a region has, correlates with the food business in that area receiving a higher grade in their health inspection score. My reasoning for this is that poorer neighborhoods are probably less sanitary that wealthier neighborhoods because they don't have as much of a money budget to spend on routine hygenic operations. This would therefore result in the businesses located in poorer neighborhoods to more frequently get a lower health inspection score than wealthier neighborhoods.
 <br />
 <br />
-Made with Python, DOHMH MenuStat, DataSF.
+Made with Python.
 <br />
 <br />
 Check out the repository page here: https://github.com/btannady/individual_sp20/blob/master/final_project/FinalProject_btannady.ipynb
