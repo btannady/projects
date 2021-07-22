@@ -33,6 +33,9 @@ Made with Python and Riot Games Developer API.
 Check out Riot Games' API page here: https://developer.riotgames.com/
 
 
+<h2 id="garden-app">"Per Capita Income of a North Carolina food business correlate with the Business’s Health Inspection Score Performance" | Data Modeling Project</h2>
+
+
 <h2 id="garden-app">"The Garden App" | Plant Maintenance Web Application</h2>
 A simple and clean web application that provides users, new and old to gardening, an easy platform to help them care for their garden plants. Created as a three person project team in UI/UX Interaction Design.
 <br />
