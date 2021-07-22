@@ -20,18 +20,6 @@ More about Bluetooth LE protocols here: https://www.bluetooth.com/specifications
 More about Kin-Keepers here: https://www.kin-keepers.com/home/about/
 
 
-<h2 id="garden-app">"The Garden App" | Plant Maintenance Web Application</h2>
-A simple and clean web application that provides users, new and old to gardening, an easy platform to help them care for their garden plants. Created as a three person project team in UI/UX Interaction Design.
-<br />
-<br /> 
-Our web application enables users a personalized gardening experience unique to each of their specific garden plant species. Various features within the application allow for diverse searching through built-in catalogs of different plants species within our database where users are able to quickly discover essential ‘need to know’ information regarding each unique plant. The web app similarly contains a real-time plant calendar to help notify users to keep track of their watering days. 
-<br />
-Maintaining plants can be hard, but it doesn't have to be!
-<br />
-<br />
-Made with HTML/CSS, Node.js, and Adobe XD.
-
-
 <h2 id="statsTracker">"Scouter Buddy" | Real-time Statistics Tracking Program</h2>
 Created using Riot Games Developer API to effectively track live gameplay statistics. Enormous stockpiles of data is transferred using JSON files and algorithmically arranged to effectively assist players in identifying statistically-proven strengths and weaknesses of their teammates and opponents. 
 <br />
@@ -43,6 +31,18 @@ Made with Python and Riot Games Developer API.
 <br />
 <br />
 Check out Riot Games' API page here: https://developer.riotgames.com/
+
+
+<h2 id="garden-app">"The Garden App" | Plant Maintenance Web Application</h2>
+A simple and clean web application that provides users, new and old to gardening, an easy platform to help them care for their garden plants. Created as a three person project team in UI/UX Interaction Design.
+<br />
+<br /> 
+Our web application enables users a personalized gardening experience unique to each of their specific garden plant species. Various features within the application allow for diverse searching through built-in catalogs of different plants species within our database where users are able to quickly discover essential ‘need to know’ information regarding each unique plant. The web app similarly contains a real-time plant calendar to help notify users to keep track of their watering days. 
+<br />
+Maintaining plants can be hard, but it doesn't have to be!
+<br />
+<br />
+Made with HTML/CSS, Node.js, and Adobe XD.
 
 
 <h2 id="food-quest">"Food Quest" | Virtual Reality RPG</h2>
