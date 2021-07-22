@@ -34,6 +34,9 @@ Check out Riot Games' API page here: https://developer.riotgames.com/
 
 
 <h2 id="data-science">"Per Capita Income of Food Business vs Health Inspection Performance" | Data Modeling</h2>
+<br />
+<br />
+Check out the repository page here: https://github.com/btannady/individual_sp20/blob/master/final_project/FinalProject_btannady.ipynb
 
 
 <h2 id="garden-app">"The Garden App" | Plant Maintenance Web Application</h2>
