@@ -28,8 +28,6 @@ Created using Unity3D, Blender, and SteamVR. The concept behind the game is to p
 <br />
 The project involved the use of Unity3D as the gaming engine to run C# code. I primarily focused on creating the 3D graphic models and assets used within the "Food Quest" game. Our team had a lot of fun showcasing our project development in several UC San Diego hosted exhibitions.
 <br />
-<br /> 
-Check out my case study page here: https://btannady.wixsite.com/portfolio/cast-study-2
 <br />
 Check out this video demo of early prototype for the game: https://youtu.be/z-KPfnebmsY
 
@@ -44,9 +42,6 @@ Maintaining plants can be hard, but it doesn't have to be!
 <br />
 <br />
 Made with HTML/CSS, Node.js, and Adobe XD.
-<br />
-<br />
-Check out the case study page here: https://btannady.wixsite.com/portfolio/case-study-1
 
 
 <h2 id="statsTracker">"Scouter Buddy" | Real-time Statistics Tracking Program</h2>
