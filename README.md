@@ -49,8 +49,7 @@ I believe that the amount of Per Capita Income that a region has, correlates wit
 <br />
 Made with Python.
 <br />
-<br />
-Check out the repository page here: https://github.com/btannady/individual_sp20/blob/master/final_project/FinalProject_btannady.ipynb
+Check out the repository page here: https://github.com/btannady/individual_sp20/tree/master/final_project
 
 
 <h2 id="garden-app">"The Garden App" | Plant Maintenance Web Application</h2>
