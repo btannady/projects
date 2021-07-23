@@ -1,11 +1,11 @@
 <h1 id="projects">projects</h1>
 A list of some of my significant projects.
 
-<h2 id="biometrics">"Biometric Wearables Pipeline" | Elderly Heart Rate & Movement Surveillance</h2>
+<h2 id="biometrics">"Biometric Wearables Pipeline" | Elderly Heart Rate & Accelerometer Surveillance</h2>
 Kin-Keepers | Software Engineer Intern | Summer 2020
 <br />
 <br />
-This was the project I undertook during my Summer 2020 internship that spanned several months in length. During this time, I worked as a Software Engineer Intern for a company called Kin-Keepers. This company specializes in creating different services and technological tools aimed in supporting the elderly community. Within those several months, I created embedded software in Bash/Python for the Biometrics IoT Integration team. The project's goal was to successfully grant our company AI a secure, stable, and wireless pipeline, capable of obtaining elderly heart rate and accelerometer data wirelessly over Bluetooth LE signals. Hardware this project primarily focused targetted light-weight and wearable devices capable of transmitting biometric data in real-time.
+This was the project I undertook during my Summer 2020 internship that spanned several months in length. During this time, I worked as a Software Engineer Intern for a company called Kin-Keepers. This company specializes in creating different services and technological tools aimed in supporting the elderly community. Within those several months, I created embedded software in Bash/Python for the Biometrics IoT Integration team. The project's goal was to successfully grant our company AI a secure, stable, and wireless pipeline, capable of obtaining elderly heart rate and movement detection data wirelessly over Bluetooth LE signals. Hardware this project primarily focused targetted light-weight and wearable devices capable of transmitting biometric data in real-time.
 <br />
 <br />
 Considering the principles behind the wireless Bluetooth 4.0 stack were still unfamiliar to everyone in our company, I was tasked with pioneering and orchestrating the proof of concept for integrating GATT server/client interactions into our company's internal software. As a result, my work involved both a great deal of programming, and a substantial amount of my time was also spent self-learning to spearhead industry-level infrastructures into our company software. 
