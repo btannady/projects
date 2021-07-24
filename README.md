@@ -45,7 +45,7 @@ Check out Riot Games' API page here: https://developer.riotgames.com/
 Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
 
 
-<h2 id="data-science">"Per Capita Income vs Health Inspection Performance" | Data Modeling</h2>
+<h2 id="data-science">"Per Capita Income vs Health Inspection Performance" | Data Modeling Project</h2>
 This was a data science project I developed with Python, answering the research question of whether or not there is a correlation between the per capita income of North Carolina food businesses in respect to their health inspection score performance.
 <br />
 <br />
