@@ -35,6 +35,8 @@ Developed in Python using open-source API, the bot imitates a humanistic persona
 <br />
 Created using Riot Games Developer API to effectively track live gameplay statistics. Enormous stockpiles of data is transferred using JSON files and algorithmically arranged to effectively assist players in identifying statistically-proven strengths and weaknesses of their teammates and opponents. 
 <br />
+<h6>Minigame tools</h6> Users are able to gain access to a variety of small minigames. 
+<br />
 <br />
 Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
 <br />
