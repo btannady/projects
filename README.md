@@ -35,9 +35,9 @@ Developed in Python using open-source API, the bot imitates a humanistic persona
 <br />
 <h6>Competitive Gameplay tools</h6> This feature is meant to act as a competitive gameplay software tool for League of Legends players. 
 <br />
-Users are given the ability to quickly search up previous performance history of teammates and opponents in real-time, allowing players to make improved strategic decisions based on calculated statistics. 
+Users are given the ability to quickly search up previous performance history of teammates and opponents in real-time, allowing players to make improved strategic decisions based on calculated statistics. Created using Riot Games Developer API to effectively track live gameplay statistics. 
 <br />
-Created using Riot Games Developer API to effectively track live gameplay statistics. Player data is transferred using JSON files and algorithmically arranged to effectively assist players in identifying statistically-proven strengths and weaknesses of their teammates and opponents. 
+Player data is transferred using JSON files and algorithmically arranged to effectively assist players in identifying statistically-proven strengths and weaknesses of their teammates and opponents. 
 <br />
 Check out Riot Games' API page here: https://developer.riotgames.com/
 <br />
