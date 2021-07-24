@@ -24,14 +24,15 @@ More about Bluetooth LE protocols here: https://www.bluetooth.com/specifications
 More about Kin-Keepers here: https://www.kin-keepers.com/home/about/
 
 
-<h2 id="statsTracker">"Scouter Buddy" | Real-time Statistics Tracking Program</h2>
+<h2 id="statsTracker">"Scouter Buddy" | Discord Multi-tool Bot</h2>
+This bot focuses on providing additional features for voice/chat group calls in Discord. The bot imitates a humanistic persona while assisting users with automonously playing music, proving support as a chat log tool, and storing user data for customized features.
 Created using Riot Games Developer API to effectively track live gameplay statistics. Enormous stockpiles of data is transferred using JSON files and algorithmically arranged to effectively assist players in identifying statistically-proven strengths and weaknesses of their teammates and opponents. 
 <br />
 <br />
 This program is meant to act as a competitive gameplay software tool for League of Legends players. Users of 'Scouter Buddy' are given the ability to quickly search up previous performance history of teammates and opponents in real-time, allowing players to make improved strategic decisions based on calculated statistics. 
 <br />
 <br />
-Made with Python and Riot Games Developer API.
+Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
 <br />
 <br />
 Check out Riot Games' API page here: https://developer.riotgames.com/
@@ -71,13 +72,6 @@ The project involved the use of Unity3D as the gaming engine to run C# code. I p
 <br />
 <br />
 Check out this video demo of early prototype for the game: https://youtu.be/z-KPfnebmsY
-
-
-<h2 id="discordBot">"Mayushii" | Discord Multi-tool Music Bot</h2>
-Capable of programmatically communicating within voice/chat group calls in Discord. The bot imitates a humanistic persona while assisting users with automonously playing music, proving support as a chat log tool, and storing user data for customized features.
-<br />
-<br />
-Created using FFmpeg, Homebrew, Python. 
 
 
 <h2 id="Next Up!">"Next Up!" | Customer Traffic-Flow Simulator</h2>
