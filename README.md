@@ -51,13 +51,11 @@ This data science project was developed with Python, answering the research ques
 <br />
 Is it likely poorer neighborhoods are less sanitary than wealthier neighborhoods because they don't have as much of a money budget to spend on routine hygenic operations? Maybe this would lead businesses located within poor neighborhoods to frequently receive a lower health inspection score compared to wealthier neighborhoods. 
 <br />
-Find out more in the repository.
-<br />
 <br />
 Made with Python.
 <br />
 <br />
-Check out the repository page here: https://github.com/btannady/individual_sp20/tree/master/final_project
+Find out more in the repository page here: https://github.com/btannady/individual_sp20/tree/master/final_project
 
 
 <h2 id="garden-app">"The Garden App" | Plant Maintenance Web Application</h2>
