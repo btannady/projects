@@ -46,7 +46,7 @@ Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
 
 
 <h2 id="data-science">"Per Capita Income vs Health Inspection Performance" | Data Modeling</h2>
-This data science project was developed with Python, answering the research question of whether or not there is a correlation between the per capita income of North Carolina food businesses in respect to their health inspection score performance.
+This data science project was developed with Python, answering the research question of whether or not there is a correlation between per capita income of North Carolina food businesses in respect to their health inspection score performance.
 <br />
 <br />
 My reasoning for asking this question was that I figured poorer neighborhoods would likely be less sanitary than wealthier neighborhoods because they don't have as much of a money budget to spend on routine hygenic operations. This would therefore result in businesses located in poorer neighborhoods to more frequently receive a lower health inspection score compared to wealthier neighborhoods.
