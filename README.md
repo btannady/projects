@@ -49,7 +49,7 @@ Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
 This data science project was developed with Python, answering the research question of whether or not there is a correlation between per capita income of North Carolina food businesses in respect to their health inspection score performance.
 <br />
 <br />
-My reasoning for asking this question was that I figured poorer neighborhoods would likely be less sanitary than wealthier neighborhoods because they don't have as much of a money budget to spend on routine hygenic operations. This would therefore result in businesses located in poorer neighborhoods to more frequently receive a lower health inspection score compared to wealthier neighborhoods.
+Is it likely poorer neighborhoods are less sanitary than wealthier neighborhoods because they don't have as much of a money budget to spend on routine hygenic operations? Maybe this would lead businesses located within poor neighborhoods to frequently receive a lower health inspection score compared to wealthier neighborhoods. Find out more in the repository.
 <br />
 <br />
 Made with Python.
