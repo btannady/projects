@@ -55,7 +55,7 @@ The project focuses on integrating fundamental principles of software testing, s
 Made with Python, Selenium, HtmlTestRunner.
 <br />
 <br />
-Find out more in the repository page here: https://github.com/btannady/selenium_bot/tree/main/SampleProjects
+Find out more in the repository page here: https://github.com/btannady/selenium_bot
 
 
 <h2 id="data-science">"Per Capita Income vs Health Inspection Performance" | Data Modeling</h2>
