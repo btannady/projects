@@ -75,7 +75,8 @@ Find out more in the repository page here: https://github.com/btannady/individua
 Developed web application to provide users new and old to gardening an easy platform to maintain their garden plants. Created as a three person project team in UI/UX Interaction Design course.
 <br />
 <br /> 
-The web application enables users a personalized gardening experience unique to each of their specific garden plant species. Various features within the application allow for diverse searching through built-in catalogs of different plants species within our database where users are able to quickly discover essential ‘need to know’ information regarding each unique plant. The web app similarly contains a real-time plant calendar to help notify users to keep track of their watering days. 
+This web application enables users a personalized gardening experience unique to each of their specific garden plant species. Various features within the application allow for diverse searching through built-in catalogs of different plants species within our database where users are able to quickly discover essential ‘need to know’ information regarding each unique plant. The web app similarly contains a real-time plant calendar to help notify users to keep track of their watering days. 
+<br />
 <br />
 "Maintaining plants can be hard, but it doesn't have to be!"
 <br />
