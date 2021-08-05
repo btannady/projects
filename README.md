@@ -46,16 +46,16 @@ Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
 
 
 <h2 id="selenium-bot">"Bug Spotter" | Web Automation Testing</h2>
-This data science project was developed with Python, answering the research question of whether or not there is a correlation between per capita income of North Carolina food businesses in respect to their health inspection score performance.
+Developed in Python using open-source Selenium WebDriver, this automation testing project was created with the aim of evaluating website performance and maintaining quality assurance.
 <br />
 <br />
-Is it likely poorer neighborhoods are less sanitary than wealthier neighborhoods because they don't have as much of a money budget to spend on routine hygenic operations? Maybe this would lead businesses located within poor neighborhoods to frequently receive a lower health inspection score compared to wealthier neighborhoods. 
+The software focuses on integrating fundamental principles of software testing, streamlining error checking procedures by following Page Object Model (POM) and the Unit Testing framework. After all tests have been run, an automated documentation of quality assurance reports is generated into HTML visualizations for straightforward and comprehensive analysis. 
 <br />
 <br />
-Made with Python.
+Made with Python, Selenium, HtmlTestRunner.
 <br />
 <br />
-Find out more in the repository page here: https://github.com/btannady/individual_sp20/tree/master/final_project
+Find out more in the repository page here: https://github.com/btannady/selenium_bot/tree/main/SampleProjects
 
 
 <h2 id="data-science">"Per Capita Income vs Health Inspection Performance" | Data Modeling</h2>
