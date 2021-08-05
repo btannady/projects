@@ -45,6 +45,19 @@ Check out Riot Games' API page here: https://developer.riotgames.com/
 Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
 
 
+<h2 id="selenium-bot">"Bug Spotter" | Web Automation Testing</h2>
+This data science project was developed with Python, answering the research question of whether or not there is a correlation between per capita income of North Carolina food businesses in respect to their health inspection score performance.
+<br />
+<br />
+Is it likely poorer neighborhoods are less sanitary than wealthier neighborhoods because they don't have as much of a money budget to spend on routine hygenic operations? Maybe this would lead businesses located within poor neighborhoods to frequently receive a lower health inspection score compared to wealthier neighborhoods. 
+<br />
+<br />
+Made with Python.
+<br />
+<br />
+Find out more in the repository page here: https://github.com/btannady/individual_sp20/tree/master/final_project
+
+
 <h2 id="data-science">"Per Capita Income vs Health Inspection Performance" | Data Modeling</h2>
 This data science project was developed with Python, answering the research question of whether or not there is a correlation between per capita income of North Carolina food businesses in respect to their health inspection score performance.
 <br />
