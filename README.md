@@ -45,7 +45,7 @@ Check out Riot Games' API page here: https://developer.riotgames.com/
 Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
 <br />
 <br />
-This repository is 'privated' due to API security keys: https://github.com/btannady/discordBot
+NOTE: This repository is 'privated' due to API security keys: https://github.com/btannady/discordBot
 
 
 <h2 id="selenium-bot">"Bug Spotter" | Web Automation Testing</h2>
