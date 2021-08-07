@@ -43,6 +43,9 @@ Check out Riot Games' API page here: https://developer.riotgames.com/
 <br />
 <br />
 Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
+<br />
+<br />
+Repository is 'privated' due to API security keys.
 
 
 <h2 id="selenium-bot">"Bug Spotter" | Web Automation Testing</h2>
