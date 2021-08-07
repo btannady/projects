@@ -82,6 +82,9 @@ This web application enables users a personalized gardening experience unique to
 <br />
 <br />
 Made with HTML/CSS, Node.js, and Adobe XD.
+<br />
+<br />
+Find out more in the repository page here: https://github.com/djuanit0x/garden-app
 
 
 <h2 id="food-quest">"Food Quest" | Virtual Reality RPG</h2>
