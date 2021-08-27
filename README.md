@@ -91,6 +91,9 @@ Find out more in the repository page here: https://github.com/djuanit0x/garden-a
 
 
 <h2 id="food-quest">"Food Quest" | Virtual Reality RPG</h2>
+Repository: https://github.com/TritonXR/FoodQuest
+<br />
+<br />
 Created for the Nutrition XR division at UCSD's Virtual/Augmented Reality organization. Seven person project development team. 
 <br />
 Created using Unity3D, Blender, and SteamVR. The concept behind the game is to promote healthy eating through interactive yet educational gameplay. Players are sent on dangerous quests and adventures to go hunting for food monsters in a fictional VR environment. After collecting enough food ingredients to complete a recipe, players will then return to the village kitchen to manually cook all of their collected ingredients to prepare a healthy dish.
