@@ -16,7 +16,7 @@ Through this learning experience, I cultivated an operational API pipeline capab
 Project development was fostered under the Agile SCRUM workflow, where we’d have daily standup meetings, sprint reviews, refinement sessions, and so on.
 <br />
 <br />
-Made with Python, Linux OS/ Bash, Bluetooth 4.0, Atlassian Jira, PlanITpoker, EasyRetro.
+Made with Python, Linux OS/ Bash, Bluetooth 4.0.
 <br />
 <br />
 More about Bluetooth LE protocols here: https://www.bluetooth.com/specifications/gatt/
