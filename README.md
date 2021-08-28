@@ -96,10 +96,10 @@ Repository: https://github.com/TritonXR/FoodQuest
 <br />
 Created for the Nutrition XR division at UCSD's Virtual/Augmented Reality organization, Triton XR. Seven person project development team. 
 <br />
-Created using Unity3D, Blender, and SteamVR. The concept behind the game is to promote healthy eating through interactive yet educational gameplay. Players are sent on dangerous quests and adventures to go hunting for food monsters in a fictional VR environment. After collecting enough food ingredients to complete a recipe, players will then return to the village kitchen to manually cook all of their collected ingredients to prepare a healthy dish.
+Created using Unity, Blender, and SteamVR. The concept behind the game is to promote healthy eating through interactive yet educational gameplay. Players are sent on dangerous quests and adventures to go hunting for food monsters in a fictional VR environment. After collecting enough food ingredients to complete a recipe, players will then return to the village kitchen to manually cook all of their collected ingredients to prepare a healthy dish.
 <br />
 <br />
-Project backend used C# programming on top of Unity3D as the primary gaming engine platform. I helped in creating 3D graphic assets used throughout the virtual game environment. Our team had a lot of fun showcasing our project development in several UC San Diego hosted exhibitions.
+Project backend used C# programming on top of Unity as the primary gaming engine platform. I helped in creating 3D graphic assets used throughout the virtual game environment. Our team had a lot of fun showcasing our project development in several UC San Diego hosted exhibitions.
 <br />
 <br />
 Check out this video demo of early prototype for the game: https://youtu.be/z-KPfnebmsY
