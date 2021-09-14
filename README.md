@@ -25,8 +25,6 @@ More about Kin-Keepers here: https://www.kin-keepers.com/home/about/
 
 
 <h2 id="discordBot">"Scouter Buddy" | Discord Multi-tool Bot</h2>
-<br />
-<br />
 NOTE: This repository possesses a modified API security token: https://github.com/btannady/discordBot
 <br />
 <br />
