@@ -25,6 +25,11 @@ More about Kin-Keepers here: https://www.kin-keepers.com/home/about/
 
 
 <h2 id="discordBot">"Scouter Buddy" | Discord Multi-tool Bot</h2>
+<br />
+<br />
+NOTE: This repository possesses a modified API security token: https://github.com/btannady/discordBot
+<br />
+<br />
 Developed in Python using open-source APIs, the bot imitates a humanistic persona while assisting Discord servers in gaining additional access to enhanced music, chat moderator, and gameplay tools. 
 <br />
 <h6>Music tool</h6> Users can command bot to join voice call channels within the server and automatically play their queued list of music.
@@ -44,9 +49,6 @@ Check out Riot Games' API page here: https://developer.riotgames.com/
 <br />
 <br />
 Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
-<br />
-<br />
-NOTE: This repository possesses a modified API security token: https://github.com/btannady/discordBot
 
 
 <h2 id="selenium-bot">"Bug Spotter" | Web Automation Testing</h2>
