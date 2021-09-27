@@ -118,6 +118,15 @@ Entities are visually displayed to represent the individual customers waiting in
 <br />
 Made with C++.
 
+<h2 id="personality_quiz">"BuzzFeed Pilot" | Personality Quiz Web App</h2>
+Repository: https://github.com/btannady/sdhacks2019
+<br />
+<br />
+My three-person team's programming project submission for SD Hacks 2019. We created a fun little web application that provides personality quizzes similar to those on Buzzfeed. 
+<br />
+<br />
+Made with HTML, CSS, Javascript, and some AWS.
+
 
 <h2 id="pokedex">"Sinnoh Region Pokedex" | Pokemon Database Search Simulator</h2>
 Repository: https://github.com/btannady/SinnohRegionPokedex
