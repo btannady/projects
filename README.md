@@ -24,7 +24,7 @@ More about Bluetooth LE protocols here: https://www.bluetooth.com/specifications
 More about Kin-Keepers here: https://www.kin-keepers.com/home/about/
 
 
-<h2 id="discordBot">"Scouter Buddy" | Discord Multi-tool Bot</h2>
+<h2 id="discordBot">"Scouter Buddy" | Discord Bot</h2>
 NOTE: This repository possesses a modified API security token: https://github.com/btannady/discordBot
 <br />
 <br />
