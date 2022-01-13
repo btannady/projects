@@ -118,7 +118,7 @@ Entities are visually displayed to represent the individual customers waiting in
 <br />
 Made with C++.
 
-<h2 id="personality_quiz">"BuzzFeed Pilot" | Personality Quiz Web App</h2>
+<h2 id="personality_quiz">"BuzzFeed Web App" | Personality Quiz</h2>
 Repository: https://github.com/btannady/sdhacks2019
 <br />
 <br />
