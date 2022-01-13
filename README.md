@@ -106,7 +106,7 @@ Project backend used C# programming on top of Unity as the primary gaming engine
 Check out this video demo of early prototype for the game: https://youtu.be/z-KPfnebmsY
 
 
-<h2 Customer Traffic-Flow Simulator</h2>
+<h2 id="Next Up!">Customer Traffic-Flow Simulator</h2>
 Repository: https://github.com/btannady/CustomerServiceSimulator
 <br />
 <br />
