@@ -128,7 +128,7 @@ My three-person team's programming project submission for SD Hacks 2019. We crea
 Made with HTML, CSS, Javascript, and some AWS.
 
 
-<h2 id="pokedex">"Sinnoh Region Pokedex" | Pokemon Database Search Simulator</h2>
+<h2 id="pokedex">"Sinnoh Region Pokedex" | Pokemon Database Simulator</h2>
 Repository: https://github.com/btannady/SinnohRegionPokedex
 <br />
 <br />
