@@ -25,6 +25,12 @@ More details about Kin-Keepers here: https://www.kin-keepers.com/home/about/
 
 <h2 id="sudokuSolver">Sudoku Game & Solver</h2>
 Developed a UI to play the game of Sudoku. Implemented a solver feature that uses the backtracking algorithm to find a solution to any solvable game.
+<br />
+<br />
+Made with Python and Pygame.
+<br />
+<br />
+Find out more in the repository page here: https://github.com/btannady/selenium_bot
 
 <h2 id="discordBot">"Scouter Buddy" | Discord Bot</h2>
 NOTE: This repository possesses a modified API security token: https://github.com/btannady/discordBot
