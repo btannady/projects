@@ -33,7 +33,7 @@ Made with Python and Pygame.
 Find out more in the repository page here: https://github.com/btannady/sudoku-solver
 
 
-<h2 id="discordBot">"Megumin" | Discord Server Bot</h2>
+<h2 id="discordBot">"MEGUMIN" | Discord Server Bot</h2>
 NOTE: This repository possesses a modified API security token: https://github.com/btannady/discord-bot
 <br />
 <br />
