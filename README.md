@@ -131,7 +131,7 @@ Entities are visually displayed to represent the individual customers waiting in
 Made with C++.
 
 
-<h2 id="personality_quiz">"BuzzFeed-like Web App" | Personality Quiz</h2>
+<h2 id="personality_quiz">"BuzzFeed-Imitation Web App" | Personality Quiz</h2>
 Repository: https://github.com/btannady/sdhacks2019
 <br />
 <br />
