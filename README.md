@@ -32,6 +32,7 @@ Made with Python and Pygame.
 <br />
 Find out more in the repository page here: https://github.com/btannady/sudoku-solver
 
+
 <h2 id="discordBot">"Scouter Buddy" | Discord Bot</h2>
 NOTE: This repository possesses a modified API security token: https://github.com/btannady/discordBot
 <br />
@@ -55,32 +56,6 @@ Check out Riot Games' API page here: https://developer.riotgames.com/
 <br />
 <br />
 Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
-
-
-<h2 id="selenium-bot">"Bug Spotter" | Web Automation Testing</h2>
-Developed in Python using open-source Selenium WebDriver, this automation testing project was crafted with the aim of evaluating website performance and maintaining quality assurance.
-<br />
-<br />
-The project focuses on integrating fundamental principles of software testing, streamlining error checking procedures by following Page Object Model (POM) and the Unit Testing framework. After all tests have been run, an automated documentation of quality assurance reports are generated into HTML visualizations for straightforward and comprehensive analysis. 
-<br />
-<br />
-Made with Python, Selenium, HtmlTestRunner.
-<br />
-<br />
-Find out more in the repository page here: https://github.com/btannady/selenium_bot
-
-
-<h2 id="data-science">"Per Capita Income vs Health Inspection Score" | Data Modeling</h2>
-This data science project was developed with Python, answering the research question of whether or not there is a correlation between per capita income of North Carolina food businesses in respect to their health inspection score performance.
-<br />
-<br />
-Is it likely poorer neighborhoods are less sanitary than wealthier neighborhoods because they don't have as much of a money budget to spend on routine hygenic operations? Maybe this would lead businesses located within poor neighborhoods to frequently receive a lower health inspection score compared to wealthier neighborhoods. 
-<br />
-<br />
-Made with Python.
-<br />
-<br />
-Find out more in the repository page here: https://github.com/btannady/individual_sp20/tree/master/final_project
 
 
 <h2 id="garden-app">"The Garden App" | Plant Maintenance Web Application</h2>
@@ -111,8 +86,33 @@ Created using Unity, Blender, and SteamVR. The concept behind the game is to pro
 Project backend used C# programming on top of Unity as the primary gaming engine platform. I also helped in creating 3D graphic assets used throughout the virtual game environment. Our team had a lot of fun showcasing our project development in several UC San Diego hosted exhibitions.
 <br />
 <br />
-Check out this video demo of early prototype for the game: 
-https://youtu.be/z-KPfnebmsY
+Check out this video demo of early prototype for the game: https://youtu.be/z-KPfnebmsY
+
+
+<h2 id="selenium-bot">"Bug Spotter" | Web Automation Testing</h2>
+Developed in Python using open-source Selenium WebDriver, this automation testing project was crafted with the aim of evaluating website performance and maintaining quality assurance.
+<br />
+<br />
+The project focuses on integrating fundamental principles of software testing, streamlining error checking procedures by following Page Object Model (POM) and the Unit Testing framework. After all tests have been run, an automated documentation of quality assurance reports are generated into HTML visualizations for straightforward and comprehensive analysis. 
+<br />
+<br />
+Made with Python, Selenium, HtmlTestRunner.
+<br />
+<br />
+Find out more in the repository page here: https://github.com/btannady/selenium_bot
+
+
+<h2 id="data-science">"Per Capita Income vs Health Inspection Score" | Data Modeling</h2>
+This data science project was developed with Python, answering the research question of whether or not there is a correlation between per capita income of North Carolina food businesses in respect to their health inspection score performance.
+<br />
+<br />
+Is it likely poorer neighborhoods are less sanitary than wealthier neighborhoods because they don't have as much of a money budget to spend on routine hygenic operations? Maybe this would lead businesses located within poor neighborhoods to frequently receive a lower health inspection score compared to wealthier neighborhoods. 
+<br />
+<br />
+Made with Python.
+<br />
+<br />
+Find out more in the repository page here: https://github.com/btannady/individual_sp20/tree/master/final_project
 
 
 <h2 id="Next Up!">Customer Traffic-Flow Simulator</h2>
@@ -127,6 +127,7 @@ Entities are visually displayed to represent the individual customers waiting in
 <br />
 Made with C++.
 
+
 <h2 id="personality_quiz">"BuzzFeed Web App" | Personality Quiz</h2>
 Repository: https://github.com/btannady/sdhacks2019
 <br />
@@ -135,6 +136,7 @@ My three-person team's programming project submission for SD Hacks 2019. We crea
 <br />
 <br />
 Made with HTML, CSS, Javascript, and some AWS.
+
 
 
 <h2 id="pokedex">"Sinnoh Region Pokedex" | Pokemon Database Simulator</h2>
