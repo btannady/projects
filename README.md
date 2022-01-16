@@ -30,7 +30,7 @@ Developed a UI to play the game of Sudoku. Implemented a solver feature that use
 Made with Python and Pygame.
 <br />
 <br />
-Find out more in the repository page here: https://github.com/btannady/selenium_bot
+Find out more in the repository page here: https://github.com/btannady/sudoku-solver
 
 <h2 id="discordBot">"Scouter Buddy" | Discord Bot</h2>
 NOTE: This repository possesses a modified API security token: https://github.com/btannady/discordBot
