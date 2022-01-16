@@ -34,7 +34,7 @@ Find out more in the repository page here: https://github.com/btannady/sudoku-so
 
 
 <h2 id="discordBot">"Scouter Buddy" | Discord Server Bot</h2>
-NOTE: This repository possesses a modified API security token: https://github.com/btannady/discordBot
+NOTE: This repository possesses a modified API security token: https://github.com/btannady/discord-bot
 <br />
 <br />
 Developed in Python using open-source APIs, the bot imitates a humanistic persona while assisting Discord servers in gaining additional access to enhanced music, chat moderator, and gameplay tools. 
