@@ -57,7 +57,7 @@ Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
 <br />
 Find out more in the repository page here: https://github.com/btannady/discord-bot
 <br />
-(NOTE: This repository possesses a modified API security token.)
+(Note: This repository possesses a modified API security token.)
 
 
 <h2 id="garden-app">"The Garden App" | Plant Maintenance Web Application</h2>
