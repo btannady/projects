@@ -33,7 +33,7 @@ Made with Python and Pygame.
 Find out more in the repository page here: https://github.com/btannady/sudoku-solver
 
 
-<h2 id="discordBot">"Scouter Buddy" | Discord Bot</h2>
+<h2 id="discordBot">"Scouter Buddy" | Discord Server Bot</h2>
 NOTE: This repository possesses a modified API security token: https://github.com/btannady/discordBot
 <br />
 <br />
