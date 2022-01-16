@@ -23,7 +23,7 @@ More details about Bluetooth LE protocols here: https://www.bluetooth.com/specif
 <br />
 More details about Kin-Keepers here: https://www.kin-keepers.com/home/about/
 
-<h2 id="sudokuSolver">Sudoku Game & Solver</h2>
+<h2 id="sudokuSolver">Sudoku Game and Solver</h2>
 Developed a UI to play the game of Sudoku. Implemented a solver feature that uses the backtracking algorithm to find a solution to any solvable game.
 <br />
 <br />
