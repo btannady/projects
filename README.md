@@ -56,6 +56,7 @@ Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
 <br />
 <br />
 Find out more in the repository page here: https://github.com/btannady/discord-bot
+<br />
 (NOTE: This repository possesses a modified API security token.)
 
 
