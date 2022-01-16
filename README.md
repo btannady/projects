@@ -49,13 +49,14 @@ Users are given the ability to quickly search up previous performance history of
 Player data is transferred using JSON files and algorithmically arranged to effectively assist players in identifying statistically-proven strengths and weaknesses of their teammates and opponents. 
 <br />
 <br />
-Check out Riot Games' API page here: https://developer.riotgames.com/
+More details about Riot Games' API page here: https://developer.riotgames.com/
 <br />
 <br />
 Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
 <br />
 <br />
-NOTE: This repository possesses a modified API security token: https://github.com/btannady/discord-bot
+Find out more in the repository page here: https://github.com/btannady/discord-bot
+(NOTE: This repository possesses a modified API security token.)
 
 
 <h2 id="garden-app">"The Garden App" | Plant Maintenance Web Application</h2>
