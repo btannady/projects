@@ -102,7 +102,7 @@ Made with Python, Selenium, HtmlTestRunner.
 Find out more in the repository page here: https://github.com/btannady/selenium_bot
 
 
-<h2 id="data-science">Data Modeling Study</h2>
+<h2 id="data-science">North Carolina Data Modeling Study</h2>
 This data science project was developed with Python, answering the research question of whether or not there is a correlation between per capita income of North Carolina food businesses in respect to their health inspection score performance.
 <br />
 <br />
