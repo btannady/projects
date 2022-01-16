@@ -111,7 +111,8 @@ Created using Unity, Blender, and SteamVR. The concept behind the game is to pro
 Project backend used C# programming on top of Unity as the primary gaming engine platform. I also helped in creating 3D graphic assets used throughout the virtual game environment. Our team had a lot of fun showcasing our project development in several UC San Diego hosted exhibitions.
 <br />
 <br />
-Check out this video demo of early prototype for the game: https://youtu.be/z-KPfnebmsY
+Check out this video demo of early prototype for the game: 
+https://youtu.be/z-KPfnebmsY
 
 
 <h2 id="Next Up!">Customer Traffic-Flow Simulator</h2>
