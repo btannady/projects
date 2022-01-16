@@ -25,7 +25,6 @@ More details about Kin-Keepers here: https://www.kin-keepers.com/home/about/
 
 <h2 id="sudokuSolver">"Sudoku Game & Solver</h2>
 <br />
-<br />
 Developed a UI to play the game of Sudoku. Implemented a solver feature that uses the backtracking algorithm to find a solution to any solvable game.
 
 <h2 id="discordBot">"Scouter Buddy" | Discord Bot</h2>
