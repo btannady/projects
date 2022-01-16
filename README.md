@@ -19,10 +19,14 @@ Project development was fostered under the Agile SCRUM workflow, where we’d ha
 Made with Python, Linux OS/ Bash, Bluetooth 4.0.
 <br />
 <br />
-More about Bluetooth LE protocols here: https://www.bluetooth.com/specifications/gatt/
+More details about Bluetooth LE protocols here: https://www.bluetooth.com/specifications/gatt/
 <br />
-More about Kin-Keepers here: https://www.kin-keepers.com/home/about/
+More details about Kin-Keepers here: https://www.kin-keepers.com/home/about/
 
+<h2 id="sudokuSolver">"Sudoku Game & Solver</h2>
+<br />
+<br />
+Developed a UI to play the game of Sudoku. Implemented a solver feature that uses the backtracking algorithm to find a solution to any solvable game.
 
 <h2 id="discordBot">"Scouter Buddy" | Discord Bot</h2>
 NOTE: This repository possesses a modified API security token: https://github.com/btannady/discordBot
