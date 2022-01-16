@@ -34,6 +34,11 @@ Find out more in the repository page here: https://github.com/btannady/sudoku-so
 
 
 <h2 id="discordBot">"MEGUMIN" | Discord Server Bot</h2>
+<br />
+<br />
+Find out more in the repository page here: https://github.com/btannady/discord-bot
+<br />
+(Note: This repository possesses a modified API security token.)
 Developed in Python using open-source APIs, the bot imitates a humanistic persona while assisting Discord servers in gaining additional access to enhanced music, chat moderator, and gameplay tools. 
 <br />
 <h6>Music Control tools</h6> Users can command bot to join voice call channels within the server and automatically play their queued list of music.
@@ -53,11 +58,7 @@ More details about Riot Games' API page here: https://developer.riotgames.com/
 <br />
 <br />
 Made with Python, FFmpeg, Homebrew, and Riot Games Developer API.
-<br />
-<br />
-Find out more in the repository page here: https://github.com/btannady/discord-bot
-<br />
-(Note: This repository possesses a modified API security token.)
+
 
 
 <h2 id="garden-app">"The Garden App" | Plant Maintenance Web Application</h2>
