@@ -15,7 +15,7 @@ As the principles behind the wireless Bluetooth stack were still unfamiliar to t
 <br />
 By the end of the summer, all project goals were favorably surpassed and accomplished. Our API pipeline grew capable of obtaining, handling, and streamlining data directly to the Kin-Keepers's 'PET' voice assistant AI to alert of potential life-concerning incidents (involving our elderly clients) and prevent escalation of such events.
 <br />
-Project development was primarily fostered under the Agile SCRUM methodologies, where I'd routinely be communicating with cross-functional teams for daily standup meetings, sprint reviews, refinement sessions, and so on.
+Project development was fostered under Agile SCRUM methodologies, where I'd routinely be communicating with cross-functional teams for daily standup meetings, sprint reviews, refinement sessions, and so on.
 <br />
 <br />
 Made with Python, Linux OS/ Bash, Bluetooth 4.0.
