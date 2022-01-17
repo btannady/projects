@@ -10,9 +10,7 @@ This was the project I undertook during my Summer 2020 internship. During this t
 <br />
 As the principles behind the wireless Bluetooth stack were still unfamiliar to those in the Kin-Keepers startup, I was tasked with pioneering and orchestrating the proof of concept for integrating GATT server/client interactions into our company's internal software. As a result, my work involved both a great deal of programming, and a substantial amount of my time was also spent self-learning to spearhead industry-level infrastructures. 
 <br />
-By the end of the summer, all project goals were favorably surpassed and accomplished. 
-<br />
-Through this learning experience, I cultivated an operational API pipeline capable of obtaining, handling, and streamlining data directly to the Kin-Keepers's 'PET' voice assistant AI to alert of potential incidents (involving our elderly clients) to prevent escalation of disasterous events.
+By the end of the summer, all project goals were favorably surpassed and accomplished. Through this learning experience, our API pipeline grew capable of obtaining, handling, and streamlining data directly to the Kin-Keepers's 'PET' voice assistant AI to alert of potential life-concerning incidents (involving our elderly clients) and prevent escalation of such events.
 Project development was fostered under the Agile SCRUM workflow, where we’d have daily standup meetings, sprint reviews, refinement sessions, and so on.
 <br />
 <br />
