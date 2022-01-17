@@ -1,7 +1,7 @@
 <h1 id="projects">projects</h1>
 A list of my significant projects.
 
-<h2 id="biometrics">"Biometric Wearables Pipeline" | Elderly Heart Rate & Accelerometer Surveillance</h2>
+<h2 id="biometrics">"Biometric Bluetooth Wearables" | Elderly Heart Rate & Accelerometer Surveillance</h2>
 Kin-Keepers | Software Engineer Intern | Summer 2020
 <br />
 <br />
