@@ -13,7 +13,7 @@ Within these four months, I pioneered and created embedded networking software w
 As the principles behind the wireless Bluetooth stack were still unfamiliar to those in the Kin-Keepers startup, I was tasked with generating the first proof of concept for integrating Bluetooth (GATT server/client interactions) into our company's internal software. As a result, my work involved both a great deal of programming, and a substantial amount of effort was dedicated towards self-learning to spearhead industry-level networking infrastructures for other engineering teams. 
 <br />
 <br />
-By the end of the summer, all project sprint goals were favorably surpassed and accomplished. Through this learning experience, our API pipeline grew capable of obtaining, handling, and streamlining data directly to the Kin-Keepers's 'PET' voice assistant AI to alert of potential life-concerning incidents (involving our elderly clients) and prevent escalation of such events.
+By the end of the summer, all project sprint goals were favorably surpassed and accomplished. Our API pipeline grew capable of obtaining, handling, and streamlining data directly to the Kin-Keepers's 'PET' voice assistant AI to alert of potential life-concerning incidents (involving our elderly clients) and prevent escalation of such events.
 Project development was fostered under the Agile SCRUM workflow, where we’d have daily standup meetings, sprint reviews, refinement sessions, and so on.
 <br />
 <br />
