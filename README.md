@@ -19,7 +19,7 @@ Project development was fostered under the Agile SCRUM workflow, where we’d ha
 Made with Python, Linux OS/ Bash, Bluetooth 4.0.
 <br />
 <br />
-More details about Bluetooth LE protocols here: https://www.bluetooth.com/specifications/gatt/
+More details about Bluetooth LE protocols here: https://www.bluetooth.com/develop-with-bluetooth/
 <br />
 More details about Kin-Keepers here: https://www.kin-keepers.com/home/about/
 
