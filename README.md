@@ -13,7 +13,7 @@ Within these four months, I pioneered and created embedded networking software w
 As the principles behind the wireless Bluetooth stack were still unfamiliar to those in the Kin-Keepers startup, I was tasked with generating the first proof of concept for integrating Bluetooth (GATT server/client interactions) into our company's internal software. As a result, my work involved both a great deal of programming, and a substantial amount of effort was dedicated towards self-learning to spearhead industry-level networking infrastructures for other engineering teams. 
 <br />
 <br />
-By the end of the summer, all project goals were favorably surpassed and accomplished. The project's API pipeline became capable of obtaining, handling, and streamlining data directly to the Kin-Keepers's 'PET' voice assistant AI to alert supporting parties of potentially life-concerning incidents (involving our elderly clients). Software development was fostered under Agile methodologies, where I'd routinely be communicating with cross-functional scrum teams for daily standup meetings, sprint reviews, refinement sessions, and so on.
+By the end of the summer, all project goals were favorably surpassed and accomplished. The project's API pipeline became capable of obtaining, handling, and streamlining data directly to the Kin-Keepers's 'PET' voice assistant AI to alert supporting parties of potentially life-concerning incidents (involving our elderly clients). Software development was fostered under Agile methodologies, where I'd be routinely communicating with cross-functional scrum teams for daily standup meetings, sprint reviews, refinement sessions, and so on.
 <br />
 <br />
 Made with Python, Linux OS/ Bash, Bluetooth 4.0, and various hardware.
